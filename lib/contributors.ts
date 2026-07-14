@@ -189,6 +189,14 @@ export const CONTRIBUTORS: Contributor[] = [
     bio: "Learning, building, and contributing.",
   },
   {
+    name: "Ravi Arnan",
+    photo: "ravi-arnan.jpg",
+    github: "ravi-arnan",
+    website: "https://github.com/ravi-arnan",
+    bio: "Full-stack dev who daily-drives Zorin OS and contributes to open source.",
+    focus: ["Linux", "AI"],
+  },
+  {
     name: "Ishant Gupta",
     photo: "ishant-gupta.jpg",
     github: "itsishant",
@@ -200,13 +208,5 @@ export const CONTRIBUTORS: Contributor[] = [
     photo: "jianzhou-xu.jpeg",
     github: "2409324124",
     bio: "Contributor focused on Chinese developer communities and the Chinese LLM ecosystem, with hands-on knowledge of major Chinese model providers and their strengths.",
-  },
-  {
-    name: "Ravi Arnan",
-    photo: "ravi-arnan.jpg",
-    github: "ravi-arnan",
-    website: "https://github.com/ravi-arnan",
-    bio: "Full-stack dev who daily-drives Zorin OS and contributes to open source.",
-    focus: ["Linux", "AI"],
   },
 ];
